@@ -1,4 +1,4 @@
-# Oxford-IIIT-Pet-Multiclass-Segmentation
+# Oxford-IIIT-Pet-Semantic-Segmentation
 
 ## Sample ot the outputs:
 
